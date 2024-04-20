@@ -4,9 +4,6 @@ I am computer engineering passionate. I am always keen on learning and reading a
 
 Pushing my limits and getting out of my comfort zone brought me powerful soft skills, such as: leadership, problem solving and decision making, presentation skills, and creativity and of course thirst for adventure.
 
-In my free time I love reading, hiking, programming and playing volleyball. I also keep an open door for new stuff (a new language, a new sport, a new activity). 
-
-Each day I try to be better by at least 1% 💪🏻
 
 <!--
 **waelkarman/waelkarman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
