@@ -1,8 +1,6 @@
 ### Hi there 👋🏻
-
-I am computer engineering passionate. I am always keen on learning and reading about new technologies, and I might feel a little bit more interest in topics such as Software development, Algorithms and Systems. 
-
-Pushing my limits and getting out of my comfort zone brought me powerful soft skills, such as: leadership, problem solving and decision making, presentation skills, and creativity and of course thirst for adventure.
+This is my little workshop where I try out new things, bring ideas to life, put concepts into practice, and work on improving myself every day.
+Pushing my limits and getting out of my comfort zone brought me powerful skills, such as: leadership, problem solving, decision making, tech skills, creativity and of course thirst for adventure.
 
 
 <!--
