@@ -1,7 +1,7 @@
 ### Hi there 👋🏻
-This is my little workshop where I try out new things, bring ideas to life, put concepts into practice, and work on improving myself every day.
+This is my little workshop where I try out new things, bring ideas to life, put concepts into practice, and work on improving myself every day. ⚙️ 🔨
 
-Pushing my limits and getting out of my comfort zone brought me powerful skills, such as: leadership, problem solving, decision making, tech skills, creativity and of course thirst for adventure.
+Pushing my limits and getting out of my comfort zone brought me powerful skills, such as: leadership, problem solving, decision making, tech skills, creativity and of course thirst for adventure. ✨
 
 
 <!--
