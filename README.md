@@ -1,7 +1,9 @@
 ### Hi there 👋🏻
 This is my little workshop where I try out new things, bring ideas to life, put concepts into practice, and work on improving myself every day. ⚙️ 🔨
 
-Pushing my limits and getting out of my comfort zone brought me powerful skills, such as: leadership, problem solving, decision making, tech skills, creativity and of course thirst for adventure. ✨
+I'm a Software Engineer with a strong focus on embedded systems and robotics. I enjoy working close to the hardware, whether it's customizing a Linux stack, debugging systems, or integrating software on a bare SoM. What drives me is the challenge of making complex systems work reliably in real-world conditions.
+I hold a Master's in Computer Engineering and have built my career across automotive IVI, industrial embedded Linux, and now robotics. Always pushing toward lower-level, higher-impact work.
+Outside of tech, I'm always looking for the next challenge, whether that's a new language, a sport, or an idea worth exploring.
 
 
 <!--
